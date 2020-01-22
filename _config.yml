@@ -2,7 +2,7 @@
 title: Amer's Blog # your site title
 author: Geekgineer # You :P
 description: > # Meta description of Homepage
-  Abdalrahman M. Amer Blog I am a mission to demystify Intelligent Systems 
+  Abdalrahman M. Amer on mission to demystify Intelligent Systems 
   topics such as Robotics, Self Driving Cars and Deep Learning
 baseurl: "/amer" # the subpath of your site, e.g. /blog
 url: "https://geekgineer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
